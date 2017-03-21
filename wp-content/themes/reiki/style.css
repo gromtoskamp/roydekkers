@@ -411,7 +411,7 @@ body {
 }
 
 a.text-logo, a.text-logo:hover {
-    color: #FFFFFF;
+    color: #000000;
     text-transform: none;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -834,7 +834,7 @@ div#drop_mainmenu_container ul {
     cursor: pointer;
     text-align: center;
     text-decoration: none;
-    color: #ffffff;
+    color: #000000;
     font: normal normal bold 12px/120% Source Sans Pro, sans-serif;
     text-transform: uppercase;
 }
