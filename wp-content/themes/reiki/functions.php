@@ -33,7 +33,7 @@ function reiki_setup() {
     ));
     
     add_theme_support('custom-header', apply_filters('reiki_custom_header_args', array(
-        'default-image' => get_template_directory_uri() . "/assets/images/page_header.jpg",
+        'default-image' => get_template_directory_uri() . "/assets/images/banner.jpg",
         'width'         => 1920,
         'height'        => 800,
         'flex-height'   => true,
