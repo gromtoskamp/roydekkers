@@ -1,0 +1,422 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: reiki\n"
+"POT-Creation-Date: 2017-03-16 18:34+0200\n"
+"PO-Revision-Date: 2016-01-06 19:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_150\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:386
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2717 customizer/customizer.php:56
+#: customizer/customizer.php:67
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2726 customizer/customizer.php:53
+#: customizer/customizer.php:64
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:11
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:11
+msgid "One Response"
+msgstr ""
+
+#: comments.php:11
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:28
+msgid "&lt; Older Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "Newer Comments &gt;"
+msgstr ""
+
+#: customizer/customizer.php:43
+msgid "Activate Reiki Companion"
+msgstr ""
+
+#: customizer/customizer.php:44
+msgid "This feature requires the Reiki Companion plugin to be activated."
+msgstr ""
+
+#: customizer/customizer.php:45
+msgid "Install Reiki Companion"
+msgstr ""
+
+#: customizer/customizer.php:46
+msgid "This feature requires the Reiki Companion plugin to be installed."
+msgstr ""
+
+#: customizer/customizer.php:50
+msgid "Reiki Companion"
+msgstr ""
+
+#: customizer/customizer.php:51
+msgid "The Reiki Companion plugin adds drag and drop functionality and many other features to the Reiki theme."
+msgstr ""
+
+#: customizer/customizer.php:61
+msgid "Contact Form 7"
+msgstr ""
+
+#: customizer/customizer.php:62
+msgid "The Contact Form 7 plugin is recommended for the Reiki contact section."
+msgstr ""
+
+#: customizer/customizer.php:156
+msgid "Activate now"
+msgstr ""
+
+#: customizer/customizer.php:159
+msgid "Install now"
+msgstr ""
+
+#: customizer/customizer.php:181
+msgid "Alternative Headers"
+msgstr ""
+
+#: customizer/customizer.php:193
+msgid "Front Page content"
+msgstr ""
+
+#: customizer/customizer.php:205
+msgid "Alternative Footers"
+msgstr ""
+
+#: customizer/customizer.php:300
+msgid "Customize"
+msgstr ""
+
+#: customizer/customizer.php:332
+msgid "Reiki Info"
+msgstr ""
+
+#: functions.php:26
+msgid "Homepage Header Image"
+msgstr ""
+
+#: functions.php:31
+msgid "Default Header Image"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:109
+msgid "Home page header"
+msgstr ""
+
+#: functions.php:134
+msgid "Sidebar widget area"
+msgstr ""
+
+#: functions.php:151
+msgid "Read more"
+msgstr ""
+
+#: functions.php:191
+msgid "Built using WordPress and Reiki Theme."
+msgstr ""
+
+#: functions.php:217
+msgid "Page not found"
+msgstr ""
+
+#: functions.php:219
+#, php-format
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr ""
+
+#: functions.php:221
+msgid "Blog"
+msgstr ""
+
+#: index.php:1
+msgid "Previous"
+msgstr ""
+
+#: index.php:1
+msgid "Next"
+msgstr ""
+
+#: index.php:1 template-parts/content-single.php:1
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-none.php:1
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-single.php:1
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:1
+msgid "Tags:"
+msgstr ""
+
+#: template-parts/content-single.php:1
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-single.php:1
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/content-single.php:1
+msgid "Previous:"
+msgstr ""
+
+#: template-parts/content-single.php:1
+msgid "Previous post:"
+msgstr ""

@@ -1,0 +1,150 @@
+.reiki-enable-companion {
+    background-color: #faffdf;
+    padding: 15px;
+    border: 1px solid #dadada;
+}
+
+.reiki_cp_column {
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
+
+.reiki_scrn_wrapper {
+    padding: 20px;
+}
+
+.reiki_scrn_wrapper img {
+    max-width: 100%;
+}
+
+.reiki_cp_column h3 {
+    font-size: 18px;
+    line-height: 120%;
+    color: rgb(51, 51, 51);
+    text-align: left;
+}
+
+.reiki_cp_column {
+    font-size: 15px;
+    line-height: 157%;
+    color: rgb(102, 102, 102);
+    text-align: left;
+}
+
+.reiki-popup .footer {
+    text-align: right;
+    position: absolute;
+    bottom: 0px;
+    margin-bottom: -48px;
+    width: 100%;
+    left: 0px;
+    background-color: #ffffff;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-top: 1px solid #ddd;
+}
+
+a.reiki-popup-cancel:hover {
+    background-color: rgba(220, 220, 220, 1);
+}
+
+.reiki-features-list li:before {
+    font-family: dashicons;
+    color: green;
+    content: "\f147";
+    padding-right: 10px;
+}
+
+.reiki-popup .reiki-screenshot {
+    border: 2px solid #e3e3e3;
+}
+
+.reiki-popup .reiki_left {
+    padding-left: 25px;
+}
+
+.reiki-popup .reiki_title {
+    text-align: center;
+}
+
+
+/* info page css */
+
+.reiki-about-page {
+    margin-right: 20px;
+}
+
+.reiki-about-page .reiki_install_notice {
+    background: #fff;
+    border-left: 4px solid #fff;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    padding: 10px 10px;
+    margin: 15px 0 15px;
+    border-left-color: #ffb900;
+}
+
+.reiki-about-page .reiki_install_notice.blue {
+    border-left-color: #00a0d2;
+}
+
+.reiki-about-page .info-boxes {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: flex;
+}
+
+.reiki-about-page .info-box {
+    width: 33.333%;
+    border: 1px solid #eaeaea;
+    padding: 25px 15px 15px;
+    background-color: #f7f7f7;
+    text-align: center;
+    margin: 1%;
+}
+
+.reiki-about-page .info-box a {
+    color: #444;
+    text-decoration: none;
+}
+
+.reiki-about-page .info-box a:hover {
+    color: #00b9eb;
+}
+
+.reiki-about-page .info-box .icon {
+    font-size: 34px;
+    width: auto;
+    height: auto;
+}
+
+.reiki-about-page .rp-panel {
+    position: relative;
+    overflow: auto;
+    margin: 16px 0;
+    margin-left: 1%;
+    padding: 0 10px;
+    border: 1px solid #e5e5e5;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    background: #fff;
+    font-size: 13px;
+    line-height: 2.1em;
+}
+
+.reiki-about-page .rp-panel p {
+    font-size: 16px;
+}
+
+.reiki-about-page .rp-c {
+    margin-left: 1%;
+    width: 60%;
+}
+
+.reiki-about-page .rp-plugin-title {
+    margin-top: 0px;
+}
