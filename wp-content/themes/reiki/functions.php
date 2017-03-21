@@ -26,7 +26,7 @@ function reiki_setup() {
             'description'   => __('Homepage Header Image', 'reiki'),
         ),
         'default-image'  => array(
-            'url'           => '%s/assets/images/page_header.jpg',
+            'url'           => '%s/assets/images/banner.jpg',
             'thumbnail_url' => '%s/assets/images/page_header.jpg',
             'description'   => __('Default Header Image', 'reiki'),
         ),

@@ -6,13 +6,13 @@ get_header('homepage');
 ?>
 
 <div class="content">
-  <div class="gridContainer">
-   <?php 
-      while ( have_posts() ) : the_post();
-        get_template_part( 'template-parts/content', 'page' );
-      endwhile;
-     ?>
-  </div>
+    <div class="gridContainer">
+        <?php
+            while ( have_posts() ) : the_post();
+                get_template_part( 'template-parts/content', 'page' );
+            endwhile;
+        ?>
+    </div>
 </div>
 
 <?php reiki_get_footer(); ?>
